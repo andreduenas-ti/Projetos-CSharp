@@ -1,0 +1,17 @@
+C:\Users\senai\source\repos\RotinaSeniorCSharp\RotinaSeniorCSharp\bin\Debug\net8.0-windows\RotinaSeniorCSharp.exe
+C:\Users\senai\source\repos\RotinaSeniorCSharp\RotinaSeniorCSharp\bin\Debug\net8.0-windows\RotinaSeniorCSharp.deps.json
+C:\Users\senai\source\repos\RotinaSeniorCSharp\RotinaSeniorCSharp\bin\Debug\net8.0-windows\RotinaSeniorCSharp.runtimeconfig.json
+C:\Users\senai\source\repos\RotinaSeniorCSharp\RotinaSeniorCSharp\bin\Debug\net8.0-windows\RotinaSeniorCSharp.dll
+C:\Users\senai\source\repos\RotinaSeniorCSharp\RotinaSeniorCSharp\bin\Debug\net8.0-windows\RotinaSeniorCSharp.pdb
+C:\Users\senai\source\repos\RotinaSeniorCSharp\RotinaSeniorCSharp\obj\Debug\net8.0-windows\RotinaSeniorCSharp.Form1.resources
+C:\Users\senai\source\repos\RotinaSeniorCSharp\RotinaSeniorCSharp\obj\Debug\net8.0-windows\RotinaSeniorCSharp.csproj.GenerateResource.cache
+C:\Users\senai\source\repos\RotinaSeniorCSharp\RotinaSeniorCSharp\obj\Debug\net8.0-windows\RotinaSeniorCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senai\source\repos\RotinaSeniorCSharp\RotinaSeniorCSharp\obj\Debug\net8.0-windows\RotinaSeniorCSharp.AssemblyInfoInputs.cache
+C:\Users\senai\source\repos\RotinaSeniorCSharp\RotinaSeniorCSharp\obj\Debug\net8.0-windows\RotinaSeniorCSharp.AssemblyInfo.cs
+C:\Users\senai\source\repos\RotinaSeniorCSharp\RotinaSeniorCSharp\obj\Debug\net8.0-windows\RotinaSeniorCSharp.csproj.CoreCompileInputs.cache
+C:\Users\senai\source\repos\RotinaSeniorCSharp\RotinaSeniorCSharp\obj\Debug\net8.0-windows\RotinaSeniorCSharp.dll
+C:\Users\senai\source\repos\RotinaSeniorCSharp\RotinaSeniorCSharp\obj\Debug\net8.0-windows\refint\RotinaSeniorCSharp.dll
+C:\Users\senai\source\repos\RotinaSeniorCSharp\RotinaSeniorCSharp\obj\Debug\net8.0-windows\RotinaSeniorCSharp.pdb
+C:\Users\senai\source\repos\RotinaSeniorCSharp\RotinaSeniorCSharp\obj\Debug\net8.0-windows\RotinaSeniorCSharp.genruntimeconfig.cache
+C:\Users\senai\source\repos\RotinaSeniorCSharp\RotinaSeniorCSharp\obj\Debug\net8.0-windows\ref\RotinaSeniorCSharp.dll
+C:\Users\senai\source\repos\RotinaSeniorCSharp\RotinaSeniorCSharp\obj\Debug\net8.0-windows\RotinaSeniorCSharp.Form2.resources
